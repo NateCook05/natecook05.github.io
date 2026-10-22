@@ -41,6 +41,30 @@ h2 {
   display: inline-block;
 }
 
+.job {
+  background-color: #FFFFFF;
+  border-left: 5px solid #F2B33D;
+  border-radius: 8px;
+  padding: 14px 20px;
+  margin-bottom: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.job h3 {
+  color: #7A1E2E;
+  margin: 0;
+}
+
+.role {
+  font-style: italic;
+  color: #8A6D3B;
+  margin: 2px 0 8px 0;
+}
+
+.job p {
+  margin: 0;
+}
+
 .gallery {
   display: flex;
   flex-wrap: wrap;
